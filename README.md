@@ -1,5 +1,9 @@
 
 # Welcome to My React Portfolio
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+
 <p style="display: flex;">
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-16.13.1-61DAFB" alt="React" />
@@ -31,3 +35,20 @@ Explore my portfolio and discover my skills, experiences and projects developed 
 ## View My Projects
 
 Ready to see my work? [Click here](https://anuproybca.github.io/Portfolio/) to view my React portfolio and discover how I can bring your next project to life.
+
+
+## Getting Started
+
+Clone down this repository. You will need node.js and git installed globally on your machine.
+
+```
+git clone https://github.com/anuproybca/Portfolio.git
+
+cd Portfolio
+
+npm install
+
+npm start
+
+```
+This will start a development server on http://localhost:3000 and you will be able to view the website on your browser.
